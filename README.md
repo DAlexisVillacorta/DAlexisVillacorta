@@ -55,10 +55,10 @@ Soy desarrollador Full Stack con fuerte enfoque en **ingeniería backend**. Me e
 ## 📬 Contacto
 
 <p>
-  <a href="mailto:tu@correo.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="">
+    <img src=dylanvillacorta0@gmail.com"https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/villacortadylan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
