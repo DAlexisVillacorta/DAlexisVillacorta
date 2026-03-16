@@ -91,6 +91,6 @@ Variables de entorno (.env) • Testing con Jest • ESLint • Prettier
 📬 Contacto
 🟠 LinkedIn https://www.linkedin.com/in/villacortadylan
 🔵 GitHub https://github.com/DAlexisVillacorta
-📧 Email tu@correo.com
+📧 Email dylanvillacorta0@gmail.com
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
